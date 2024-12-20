@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "name": "KCDC_LiDAR_2024_2025_Centres",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "xy_coordinate_resolution": 1e-15,
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Proj_Name": "Kapiti Coast LiDAR",
+                "Project": "FPFA1402",
+                "Area": 312.77,
+                "Point_Dens": 16
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.086239848114133,
+                    -40.845904891287375
+                ]
+            }
+        }
+    ]
+}
