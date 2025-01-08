@@ -14,6 +14,7 @@
             "properties": {
                 "Proj_Name": "Upper Hutt LiDAR",
                 "Project": "FPFA1400",
+                "Survey_Typ": "LiDAR",
                 "Area": 46.31
             },
             "geometry": {

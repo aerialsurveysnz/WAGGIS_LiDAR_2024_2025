@@ -14,6 +14,7 @@
             "properties": {
                 "Proj_Name": "Kapiti Coast LiDAR",
                 "Project": "FPFA1402",
+                "Survey_Typ": "LiDAR",
                 "Area": 312.77
             },
             "geometry": {

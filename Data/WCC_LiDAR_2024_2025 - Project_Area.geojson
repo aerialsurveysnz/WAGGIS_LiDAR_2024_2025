@@ -14,6 +14,7 @@
             "properties": {
                 "Proj_Name": "Wellington City LiDAR",
                 "Project": "FPFA1401",
+                "Survey_Typ": "LiDAR",
                 "Point_Dens": 16,
                 "Area": 174.57159176318299
             },
