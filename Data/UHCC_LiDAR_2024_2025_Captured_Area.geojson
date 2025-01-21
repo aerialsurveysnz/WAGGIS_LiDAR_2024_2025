@@ -14,8 +14,8 @@
             "properties": {
                 "Proj_Name": "Upper Hutt LiDAR",
                 "Project": "FPFA1400",
-                "Area": 0,
-                "Percentage_Coverage": 0
+                "Area": 46.31,
+                "Percentage_Coverage": 100
             },
             "geometry": {
                 "type": "MultiPolygon",
